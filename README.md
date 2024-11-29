@@ -4,7 +4,7 @@ A video game recommendation system built with Python and Streamlit that helps us
 
 ## Description
 
-Game Finder Pro is an interactive web application that provides personalized video game recommendations. Using a content-based recommendation system, it analyzes game features such as genre, platform, and user scores to suggest similar games that users might enjoy.
+PlayMatch is an interactive web application that provides personalized video game recommendations. Using a content-based recommendation system, it analyzes game features such as genre, platform, and user scores to suggest similar games that users might enjoy.
 
 ## Features
 
@@ -29,11 +29,11 @@ playmatch.streamlit.app/
 
 ## Installation
 
-1. Clone the repository
+1. Clone the repository: 
 git clone https://github.com/shehrina/PlayMatch.git
-2. Install required packages
+2. Install required packages: 
 pip install -r requirements.txt
-3. Run the application
+3. Run the application: 
 streamlit run app.py
 
 
