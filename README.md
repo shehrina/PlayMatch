@@ -56,7 +56,7 @@ The recommendation system uses content-based filtering to suggest similar games.
 
 ## Author
 
-Your Name
+Shehrina Hossain
 - GitHub: [@shehrina]
 - LinkedIn: www.linkedin.com/in/shehrinahossain
 
